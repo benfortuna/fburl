@@ -1,0 +1,1 @@
+This project explores various mechanisms for generating calendar free/busy information using [iCal4j](http://code.google.com/p/ical4j/)
